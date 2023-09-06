@@ -22,4 +22,4 @@
 #EOF
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
 git clone https://github.com/davinyue/luci-theme-edge.git package/lean/luci-theme-edge
-git clone https://github.com/sun-cut/luci-app-nginx-manager.git package/lean/luci-app-nginx-manager
+#git clone https://github.com/sun-cut/luci-app-nginx-manager.git package/lean/luci-app-nginx-manager
